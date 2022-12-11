@@ -1,1 +1,3 @@
-# functional-gramming
+# 概要
+
+関数型プログラミング学習用のリポジトリ
